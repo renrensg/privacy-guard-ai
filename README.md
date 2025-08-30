@@ -57,3 +57,5 @@ Email: alex.tan@example.com, Phone: +65 9123 4567, NRIC: S1234567D
 - Named Entity Recognition (NER).
 - Face blurring for images.
 - Risk scoring dashboard.
+
+All content in repository © 2025 Jarren W. All rights reserved.
