@@ -1,0 +1,4 @@
+Hi, my name is Alex Tan.
+My email is alex.tan@example.com.
+My phone is +65 9123 4567.
+My NRIC is S1234567D.
